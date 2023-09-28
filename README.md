@@ -1,8 +1,6 @@
 # Fashion_Recommender_Project
 Resnet50 | CNN | KNN 
 
-# Fashion Recommender Projesi
-
 ![Proje Görseli](streamlit_image.jpg)
 
 ## Proje Hakkında
